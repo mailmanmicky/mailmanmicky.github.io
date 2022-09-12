@@ -1,2 +1,2 @@
-<h1>mm-pge</h1>
-<h2>My personal website</h2>
+<h1>mm-pge - the repo for my website</h1>
+<p>mm-pge or "<a href="mailmanmicky.github.io" target="_blank"; text-decoration:none;">mailmanmicky.github.io</a>" is my personal website in which I intend to document the changelogs of my projects, make blogposts and generally just do other wacky html nonsense. <strong>It's still considered a work in progress, as the major components have yet to be added.</strong></p>
