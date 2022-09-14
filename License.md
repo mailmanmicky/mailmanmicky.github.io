@@ -7,6 +7,9 @@ See <a href="https://github.com/mailmanmicky/mm-pge/blob/main/License.md">licens
 The following license pertains to the repository code only. The license cannot be edited and it does not fall under the <a href="https://github.com/mailmanmicky/mm-pge/blob/main/License.md#RDC">Repository Documentation Copyright</a>
 
 ```
+© 2022 mailmanmickey
+See https://github.com/mailmanmicky/mm-pge/blob/main/License.md for more information
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
