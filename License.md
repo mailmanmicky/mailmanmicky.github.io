@@ -4,6 +4,7 @@
 See <a href="https://github.com/mailmanmicky/mm-pge/blob/main/License.md">license.md</a> for more information
 
 <h2>MIT License</h2>
+<i>The following license pertains to the software only</i>
 
 ```
 Permission is hereby granted, free of charge, to any person obtaining a copy
