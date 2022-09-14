@@ -1,7 +1,7 @@
-<h1>MIT License</h1>
+<h2>MIT License</h2>
 
 Copyright (c) 2022 mailmanmicky/mailmanmickey
-````
+```
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -19,3 +19,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
+<h2>Website Content Copyright</h2>
+All literary, musical and artistic works by mailmanmickey for https://mailmanmicky.github.io are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0 International license</a>, unless stated otherwise.
