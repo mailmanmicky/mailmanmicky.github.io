@@ -1,6 +1,10 @@
+<h2>Copyright Notice</h2>
+© 2022 mailmanmickey. All rights reserved
+<br>
+See <a href="https://github.com/mailmanmicky/mm-pge/blob/main/License.md">license.md</a> for more information
+
 <h2>MIT License</h2>
 
-Copyright (c) 2022 mailmanmicky/mailmanmickey
 ```
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
