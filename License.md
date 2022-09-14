@@ -4,7 +4,7 @@
 See <a href="https://github.com/mailmanmicky/mm-pge/blob/main/License.md">license.md</a> for more information
 
 <h2>MIT License</h2>
-The following license pertains to the repository code only. It cannot be edited and it does not fall under the <a href="https://github.com/mailmanmicky/mm-pge/blob/main/License.md#RDC">Repository Documentation Copyright</a>
+The following license pertains to the repository code only. The license cannot be edited and it does not fall under the <a href="https://github.com/mailmanmicky/mm-pge/blob/main/License.md#RDC">Repository Documentation Copyright</a>
 
 ```
 Permission is hereby granted, free of charge, to any person obtaining a copy
