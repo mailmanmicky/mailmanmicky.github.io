@@ -4,7 +4,7 @@
 See <a href="https://github.com/mailmanmicky/mm-pge/blob/main/License.md">license.md</a> for more information
 
 <h2>MIT License</h2>
-<i>The following license pertains to the software only</i>
+The following license pertains to the repository code only. It cannot be edited and it does not fall under the Repository Documentation Copyright.
 
 ```
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -27,3 +27,6 @@ SOFTWARE.
 ```
 <h2>Website Content Copyright</h2>
 All literary, musical and artistic works created by mailmanmickey for https://mailmanmicky.github.io are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0 International license</a>, unless stated otherwise.
+
+<h2 id="RDC">Repository Documentation Copyright</h2>
+All mm-pge repository documentation is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0 International license</a>, unless stated otherwise. 
