@@ -21,4 +21,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 <h2>Website Content Copyright</h2>
-All literary, musical and artistic works by mailmanmickey for https://mailmanmicky.github.io are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0 International license</a>, unless stated otherwise.
+All literary, musical and artistic works created by mailmanmickey for https://mailmanmicky.github.io are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0 International license</a>, unless stated otherwise.
