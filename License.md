@@ -1,5 +1,5 @@
 <h2>Copyright Notice</h2>
-© 2022 mailmanmickey. All rights reserved
+© 2022 mailmanmickey
 <br>
 See <a href="https://github.com/mailmanmicky/mm-pge/blob/main/License.md">license.md</a> for more information
 
