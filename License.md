@@ -1,7 +1,7 @@
 <h2>Copyright Notice</h2>
 © 2022 mailmanmickey
 <br>
-See <a href="https://github.com/mailmanmicky/mm-pge/blob/main/License.md">license.md</a> for more information
+See <a href="https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md">license.md</a> for more information
 
 <h2>MIT License</h2>
 The following license pertains to the repository code only. The license cannot be edited and it does not fall under the <a href="https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md#RDC">Repository Documentation Copyright</a>
