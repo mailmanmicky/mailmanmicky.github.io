@@ -8,12 +8,12 @@ a:link {
 
 hr {
 	border: none;
-	border-top: 1px solid black;
+	border-top: 1px solid;
 	height: 0px;
 }
 
 .container {
-	padding: 25%;
+	padding: 20%;
 	padding-top: 0;
 	padding-bottom: 0;
 }
@@ -34,3 +34,34 @@ header {
 	float:right;
 	font-family: helvetica; 
 	font-size: 12px;
+}
+
+@media screen and (max-width: 1201px){
+	.container {
+	padding: 20%;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+@media screen and (max-width: 1024px){
+	.container {
+	padding: 15%;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+@media screen and (max-width: 768px){
+	.container {
+	padding: 10%;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+@media screen and (max-width: 480px){
+	.container {
+	padding: 5%;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+}
