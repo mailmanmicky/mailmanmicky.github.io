@@ -19,7 +19,7 @@ hr {
 }
 
 header {
-	padding-top:32px;
+	padding-top:16px;
 	text-align:center;
 }
 	
@@ -34,5 +34,7 @@ header {
 	float:right;
 	font-family: helvetica; 
 	font-size: 12px;
+}
+
 }
 
