@@ -19,7 +19,7 @@ hr {
 }
 
 header {
-	padding-top:64px;
+	padding-top:32px;
 	text-align:center;
 }
 	
@@ -35,3 +35,4 @@ header {
 	font-family: helvetica; 
 	font-size: 12px;
 }
+
