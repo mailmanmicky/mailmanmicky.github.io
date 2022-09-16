@@ -1,5 +1,5 @@
 <h1><img src="images/favicon64px.png"> mm-pge - the repo for my website</h1>
-<p>mm-pge is the repository for <a href="https://mailmanmicky.github.io/mm-pge/ target="_blank; text-decoration:none;">mailmanmicky.github.io</a>; my personal     website where I intend to: 
+<p>mm-pge is the repository for <a href="https://mailmanmicky.github.io target="_blank; text-decoration:none;">mailmanmicky.github.io</a>; my personal     website where I intend to: 
                                     <ol type="a">
     <li> Document the changelogs of my projects </li>
     <li> Make blogposts </li>
