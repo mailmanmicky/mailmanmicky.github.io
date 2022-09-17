@@ -3,8 +3,7 @@
 <br>
 See <a href="https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md">license.md</a> for more information
 
-<h2>MIT License</h2>
-The following license pertains to the repository code only. 
+<h2>MIT License</h2> 
 
 ```
 © 2022 mailmanmickey
