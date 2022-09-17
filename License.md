@@ -29,7 +29,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 <h2>Website Content Copyright</h2>
-All literary, musical and artistic works created by mailmanmickey for https://mailmanmicky.github.io are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 International license</a>, unless stated otherwise.
+All literary, musical and artistic works created by mailmanmickey for https://mailmanmicky.github.io are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 International license</a>, <b>unless stated otherwise.</b>
 
 <h2 id="RDC">Repository Documentation Copyright</h2>
-All mm-pge repository documentation is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 International license</a>, unless stated otherwise. 
+All mm-pge repository documentation is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 International license</a>, <b>unless stated otherwise.</b> 
