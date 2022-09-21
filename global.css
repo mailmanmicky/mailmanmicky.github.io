@@ -1,9 +1,9 @@
-a:visited {
-  color: gray;
+a:link {
+  color: grey;
 }
 
-a:link {
-  color: gray;
+a:visited {
+  color: grey;
 }
 
 header {
@@ -24,14 +24,14 @@ hr {
 }
 
 .htitle {
-  font-family: montserrat;
+  font-family: montserrat, sans-serif;
   font-size: 32px;
   font-weight: 500;
   padding-left: 0px;
   vertical-align: 4px;
 }
 .hsubtitle {
-  font-family: montserrat;
+  font-family: montserrat, sans-serif;
   font-size: 22px;
   font-weight: 300;
   vertical-align: 4px;
@@ -50,3 +50,4 @@ hr {
   font-family: helvetica;
   font-size: 12px;
 }
+
