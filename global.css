@@ -1,0 +1,52 @@
+a:visited {
+  color: gray;
+}
+
+a:link {
+  color: gray;
+}
+
+header {
+  padding-top: 16px;
+  text-align: center;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid;
+  height: 0px;
+}
+
+.container {
+  padding: 20%;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.htitle {
+  font-family: montserrat;
+  font-size: 32px;
+  font-weight: 500;
+  padding-left: 0px;
+  vertical-align: 4px;
+}
+.hsubtitle {
+  font-family: montserrat;
+  font-size: 22px;
+  font-weight: 300;
+  vertical-align: 4px;
+  color: gray;
+}
+
+.left {
+  padding-left: 1%;
+  font-family: helvetica;
+  font-size: 12px;
+}
+
+.right {
+  padding-right: 1%;
+  float: right;
+  font-family: helvetica;
+  font-size: 12px;
+}
