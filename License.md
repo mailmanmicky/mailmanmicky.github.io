@@ -32,4 +32,4 @@ SOFTWARE.
 
 <h2>Website Content Copyright</h2>
 
-All literary, artistic and musical works created for mailmanmicky.github.io are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 International License</a>; unless stated otherwise.
+All literary, artistic and musical works created for mailmanmicky.github.io are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 International License</a>, unless stated otherwise.
