@@ -1,53 +1,96 @@
-a:link {
-  color: grey;
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+:root {
+    --background: #1f1f1f;
+    --defaulthr: #242424;
+    --maintext: white;
+    --secondarytext: #808080;
 }
 
-a:visited {
-  color: grey;
-}
+@media (prefers-color-scheme: light) {
+    :root {
+        --background: #ebebeb;
+        --defaulthr: #e0e0e0;
+        --maintext: black;
+        --secondarytext: #808080;
+    }
+  }
 
-header {
-  padding-top: 16px;
-  text-align: center;
-}
+a {
+    color: var(--secondarytext);
+  }
 
 hr {
-  border: none;
-  border-top: 1px solid;
-  height: 0px;
+    border: 1px solid var(--defaulthr);
+    margin-top:20em;
+    width:100%;
 }
 
-.container {
-  padding: 20%;
-  padding-top: 0;
-  padding-bottom: 0;
+html {
+    background:var(--background)
+}
+ 
+.subtitle {
+    font-family: 'Inconsolata', monospace;
+    font-size: 24px;
+    font-weight: 500;
+    color:var(--secondarytext);
+    text-align:center;
 }
 
-.htitle {
-  font-family: montserrat, sans-serif;
-  font-size: 32px;
-  font-weight: 500;
-  padding-left: 0px;
-  vertical-align: 4px;
-}
-.hsubtitle {
-  font-family: montserrat, sans-serif;
-  font-size: 22px;
-  font-weight: 300;
-  vertical-align: 4px;
-  color: gray;
+.title {
+    font-family: montserrat, sans-serif;
+    font-size: 64px;
+    font-weight: 500;
+    color:var(--maintext);
+    margin-top:40%;
 }
 
-.left {
-  padding-left: 1%;
-  font-family: helvetica;
-  font-size: 12px;
+.link {
+    border: 1px solid #bfbf4d;
+    border-radius:0.2em;
+    color:var(--maintext);
+    font-family: 'Inconsolata', monospace;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top:3em;
+    padding:0.3em 1em;
+    text-align:center;
+    text-decoration:none;
+    transition:transform 0.125s linear;
 }
 
-.right {
-  padding-right: 1%;
-  float: right;
-  font-family: helvetica;
-  font-size: 12px;
+.link:nth-of-type(2) {
+    border-color:#4d8abf;
 }
 
+.link:hover {
+    transform: translateY(-0.3em);
+}
+
+.linkwrapper {
+    gap:1.5em;
+    display:flex;
+    justify-content: center;
+}
+
+.wrapper {
+    animation-fill-mode: forwards;  
+    display:grid;
+    justify-content: center;
+    align-content: center;
+}
+
+.footerwrapper {
+    display:flex;
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:var(--secondarytext);
+    justify-content: space-between
+}
+
+.footerwrapper img {
+    vertical-align:-0.3em;
+}
