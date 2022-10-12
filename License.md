@@ -5,7 +5,7 @@ See <a href="https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/Li
 
 <h2>MIT License</h2> 
 
-The MIT License pertains to the code only. It does not fall under the <a href="https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md#website-content-copyright">Website Content Copyright</a>.
+The MIT License pertains to the code. It does not fall under the <a href="https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md#website-content-copyright">Website Content Copyright</a>.
 
 ```
 © 2022 mailmanmickey
