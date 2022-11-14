@@ -1,9 +1,8 @@
-<h2>Copyright Notice</h2>
-© 2022 mailmanmickey
-<br>
+## Copyright Notice
+© 2022 mailmanmickey\
 See <a href="https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md">license.md</a> for more information
 
-<h2>MIT License</h2> 
+## MIT License
 
 The MIT License pertains to the code. It does not fall under the <a href="https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md#website-content-copyright">Website Content Copyright</a>.
 
@@ -30,6 +29,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-<h2>Website Content Copyright</h2>
+## Website Content Copyright
 
 All literary, artistic and musical works created for mailmanmicky.github.io are licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC-BY-SA 4.0 International License</a>, unless stated otherwise.
