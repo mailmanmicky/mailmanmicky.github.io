@@ -9,7 +9,7 @@ The MIT License pertains to the code. It does not fall under the <a href="https:
 
 ```
 © 2022 mailmanmickey
-See https://github.com/mailmanmicky/mm-pge/blob/main/License.md for more information
+See https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md for more information
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
