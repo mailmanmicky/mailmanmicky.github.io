@@ -17,4 +17,4 @@
 - [GameBanana Submission Copyright Licenses ](https://github.com/mailmanmicky/mailmanmicky.github.io/copyright/license.html)
 
 ## See also
-[mailmanmickey on GameBanana](https://gamebanana.com/members/1734849)
+- [mailmanmickey on GameBanana](https://gamebanana.com/members/1734849)
