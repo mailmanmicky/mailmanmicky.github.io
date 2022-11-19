@@ -1,5 +1,4 @@
 ## Copyright Notice
-MIT License
 
 © 2022 mailmanmickey\
 See <a href="https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md">license.md</a> for more information
@@ -9,6 +8,8 @@ See <a href="https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/Li
 The MIT License pertains to the code. It does not fall under the <a href="https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md#website-content-copyright">Website Content Copyright</a>.
 
 ```
+MIT License
+
 © 2022 mailmanmickey
 See https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md for more information
 
