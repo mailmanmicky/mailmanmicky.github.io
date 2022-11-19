@@ -3,7 +3,7 @@
 ## Quick Links
 
   ### General
-  [Index](https://mailmanmicky.github.io/) •
+  [Index](https://mailmanmicky.github.io/) ·
   [License](https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md)
 
   ### Legal  
