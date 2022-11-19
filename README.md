@@ -1,9 +1,33 @@
-<h1><img src="images/iconwh64.svg"> mailmanmicky.github.io - the repo for my website </h1>
-<p>"mailmanmicky.github.io" is the repository for https://mailmanmicky.github.io. My personal     website where I intend to: 
-                                    <ol type="a">
-    <li> Document the changelogs of my projects </li>
-    <li> Make blogposts </li>
-    <li> Do other wacky html nonsense! </li>
-</ol>
-<br>
-<strong>The site is still considered a work in progress since the major components have yet to be added.</strong></p>
+<style>
+
+.flex {
+    display: flex;
+}
+
+h3 {
+    margin-top:.5em;
+}
+
+</style>
+
+# <img src="global_assets/img/readme.svg"> mailmanmicky.github.io
+
+## Quick Links
+
+<div class="flex"> 
+
+  <ul style="padding-left: 0;">
+
+  ### General
+  <a target="blank" href="https://mailmanmicky.github.io/">Index</a>
+
+  </ul>
+
+  <ul>
+
+  ### Legal  
+  <a target="blank" href="https://mailmanmicky.github.io/copyright/license.html">Submission Copyright</a>   
+
+  </ul>
+
+</div>
