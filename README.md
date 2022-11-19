@@ -12,11 +12,6 @@
 
 </div>
 
-
-## Table of Contents
-- [Licenses](https://github.com/mailmanmicky/mailmanmicky.github.io#licenses)
-- [See also](https://github.com/mailmanmicky/mailmanmicky.github.io#See-also)
-
 ## Licenses
 - [Code and Content License](https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md).
 - [GameBanana Submission Copyright Licenses ](https://github.com/mailmanmicky/mailmanmicky.github.io/copyright/license.html)
