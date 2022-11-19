@@ -3,8 +3,8 @@
 ## Quick Links
 
   ### General
-  <a target="blank" href="https://mailmanmicky.github.io/">Index</a>
+  [Index](https://mailmanmicky.github.io/) •
+  [License](https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md)
 
   ### Legal  
-  <a target="blank" href="https://mailmanmicky.github.io/copyright/license.html">Submission Copyright</a>   
-
+  [Submission Copyright](https://mailmanmicky.github.io/copyright/license.html)
