@@ -1,4 +1,6 @@
 ## Copyright Notice
+MIT License
+
 © 2022 mailmanmickey\
 See <a href="https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md">license.md</a> for more information
 
