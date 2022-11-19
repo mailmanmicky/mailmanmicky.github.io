@@ -13,7 +13,7 @@
 </div>
 
 ## Licenses
-- [Code and Content License](https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md).
+- [Code and Content License](https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md)
 - [GameBanana Submission Copyright Licenses ](https://github.com/mailmanmicky/mailmanmicky.github.io/copyright/license.html)
 
 ## See also
