@@ -1,0 +1,68 @@
+/* || Custom properties */
+
+:root {
+    --color-background: #1f1f1f;
+    --color-hr: #e6e6e6;
+    --color-text: white;
+    --color-link: #5DB1E8;
+
+    --font-heading:system-ui;
+    --font-paragraph:Helvetica;
+
+    --gap-32:2.5em;
+}
+
+/* || Background and text color */
+
+html {
+    background:var(--color-background);
+    color:var(--color-text);
+}
+
+/* || Paragraph styling */
+
+p, a {
+    font-family:var(--font-paragraph);
+    font-weight:300;
+}
+
+/* || Heading styling */
+
+h1, h2, h3 {
+    font-family:var(--font-heading);
+}
+
+/* || Link styling */
+
+a, a:visited {
+    color:var(--color-link);
+    text-decoration:none;
+}
+
+/* || Codeblock styling */
+
+pre {
+    background: #1a1a1a;
+    padding-inline: 1em;
+    box-shadow: inset 0 0 0.6em rgba(0, 0, 0, 0.2);
+    border: 2px solid #242424;
+    white-space: break-spaces;
+}
+
+/* || Flexbox styling */
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex: 1;
+}
+
+.flex-direction-column {
+    flex-direction: column;
+}
+
+.gap {
+    gap: var(--gap-32);
+}
