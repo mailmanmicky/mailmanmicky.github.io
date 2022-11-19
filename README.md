@@ -1,10 +1,6 @@
-# <img src="global_assets/img/readme.svg"> mailmanmicky.github.io
+# ![](global_assets/img/readme.svg) mailmanmicky.github.io
 
-## Quick Links
-
-  ### General
-  [Index](https://mailmanmicky.github.io/) ·
-  [License](https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md)
-
-  ### Legal  
+### Quick Links
+[Index](https://mailmanmicky.github.io/) ·
+  [Website Copyright](https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md) ·
   [Submission Copyright](https://mailmanmicky.github.io/copyright/license.html)
