@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Personal, <b>work in progress</b> website of mailmanmickey/mailmanmicky (that's me!).
+### The personal, <b>work in progress</b> website for mailmanmickey/mailmanmicky (that's me!).
 
 [![Personal Website](https://img.shields.io/badge/mailmanmicky.github.io-bf4d4d?style=for-the-badge)](https://mailmanmicky.github.io/)
 [![GitHub](https://img.shields.io/badge/-GitHub-161B22?style=for-the-badge)](https://github.com/mailmanmicky)
