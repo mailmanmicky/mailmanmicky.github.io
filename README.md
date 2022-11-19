@@ -14,8 +14,8 @@
 
 
 ## Table of Contents
-- [Licenses](https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/README.md#licenses)
-- [See also](https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/README.md#see-also)
+- [Licenses](https://github.com/mailmanmicky/mailmanmicky.github.io#licenses)
+- [See also](https://github.com/mailmanmicky/mailmanmicky.github.io#See-also)
 
 ## Licenses
 - [Code and Content License](https://github.com/mailmanmicky/mailmanmicky.github.io/blob/main/License.md).
