@@ -7,11 +7,9 @@
 [![Personal Website](https://img.shields.io/badge/mailmanmicky.github.io-bf4d4d?style=for-the-badge)](https://mailmanmicky.github.io/)
 [![GitHub](https://img.shields.io/badge/-GitHub-161B22?style=for-the-badge)](https://github.com/mailmanmicky)
 [![Gamebanana](https://img.shields.io/badge/-GameBanana-FFE033?style=for-the-badge)](https://gamebanana.com/members/1734849)
-![Discord](https://img.shields.io/badge/mailmanmickey%234800-%235865F2?style=for-the-badge)
+![Discord](https://img.shields.io/badge/mailmanmickey%234800-%235865F2?style=for-the-badge) 
+<br><br>
 
-![Maintainer](https://img.shields.io/badge/maintainer-mailmanmickey-%234d8abf?style=for-the-badge)
-[![Website Status](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=for-the-badge)](https://mailmanmicky.github.io/)
-![GitHub last commit](https://img.shields.io/github/last-commit/mailmanmicky/mailmanmicky.github.io?style=for-the-badge)
 </div>
 
 
