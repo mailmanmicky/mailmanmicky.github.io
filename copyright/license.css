@@ -28,3 +28,14 @@ h3 {
 .list-basis {
   flex-basis: 90%;
 }
+
+
+/* || Media Queries */
+
+@media (max-width: 1100px) {
+  .flex { display:block; }
+}
+
+@media (max-width: 900px) {
+  body { width:90%; }
+}
