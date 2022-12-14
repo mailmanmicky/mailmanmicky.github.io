@@ -19,7 +19,7 @@ html {
     color:var(--color-text);
 }
 
-/* || Paragraph styling */
+/* || Text styling */
 
 p, a {
     font-family:var(--font-paragraph);
